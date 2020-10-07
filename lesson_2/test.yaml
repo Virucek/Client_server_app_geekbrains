@@ -1,0 +1,9 @@
+products:
+- chair
+- sofa
+- table
+products_price:
+  chair: 100€
+  sofa: 150€
+  table: 200€
+products_quantity: 100
